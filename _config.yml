@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 version: 0.7.0
-url: "https://ontoportal.github.io" # the base hostname & protocol for your site
+url: "https://lwitaly-ecoportal.github.io" # the base hostname & protocol for your site
 baseimgs: "/documentation/assets/images/ontoportal"
 figures_link: "/documentation/assets/images/ontoportal/figures"
 opva: OntoPortal Virtual Appliance
